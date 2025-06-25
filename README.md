@@ -173,3 +173,6 @@ You can test the API endpoints directly using the Swagger UI:
 
 - Built with [Streamlit](https://streamlit.io/), [TensorFlow/Keras](https://www.tensorflow.org/), [pandas-ta](https://github.com/twopirllc/pandas-ta), [yfinance](https://github.com/ranaroussi/yfinance), and [Plotly](https://plotly.com/python/).
 - Backend API powered by [FastAPI](https://fastapi.tiangolo.com/) and [Uvicorn](https://www.uvicorn.org/).
+
+
+## Nrao
