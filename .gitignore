@@ -1,0 +1,49 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environment
+st-env/
+venv/
+ENV/
+env/
+.env/
+.venv/
+
+# Python version
+.python-version
+
+# Model files
+saved_model/
+*.h5
+*.pb
+*.ckpt*
+*.pt
+
+# Data files
+*.csv
+*.xlsx
+*.db
+*.sqlite
+
+# Logs
+logs/
+*.log
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
